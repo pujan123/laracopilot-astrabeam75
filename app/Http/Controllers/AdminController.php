@@ -106,7 +106,7 @@ class AdminController extends Controller
                 'sku' => 'PC-005',
                 'category' => 'Electronics',
                 'price' => 1299.99,
-                'stock' => ,
+                'stock' => 1,
                 'status' => 'Out of Stock',
                 'image' => 'https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=100',
                 'created_at' => '2024-01-08'
